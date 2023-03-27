@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCarPlay</string>
+    <string name="home">Home</string>
+    <string name="socialFeed">Music</string>
+    <string name="sell">Map</string>
+    <string name="chat">profile</string>
+    <string name="appProfile">Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Phone fragment</string>
+</resources>
